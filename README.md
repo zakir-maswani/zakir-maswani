@@ -1,5 +1,5 @@
 # 💫 About Me:
-**I'm currently working on**: Building AI apps using RAG & NLP<br><br>I'm looking to collaborate on: AI & Machine Learning projects<br><br>**I'm looking for help with**: Deploying scalable AI systems<br><br>**I'm currently learning**: Advanced ML, Deep Learning & RAG<br><br>**Ask me about**: Python, NLP & AI apps<br><br>**Fun fact**: I love turning data into intelligent systems 🚀
+**I'm currently working on**: Building AI apps using RAG & NLP<br><br>**I'm looking to collaborate on**: AI & Machine Learning projects<br><br>**I'm looking for help with**: Deploying scalable AI systems<br><br>**I'm currently learning**: Advanced ML, Deep Learning & RAG<br><br>**Ask me about**: Python, NLP & AI apps<br><br>**Fun fact**: I love turning data into intelligent systems 🚀
 
 
 ## 🌐 Socials:
