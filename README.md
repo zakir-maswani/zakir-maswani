@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2B90D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zakir+Ali;Building+AI+apps+with+RAG+%26+NLP;Turning+data+into+intelligent+systems)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/RezaSi/reza-si/main/img/coding.gif" width="400"/>
+
+</div>
+
 # 💫 About Me:
 ➪ **I'm currently working on**: Building AI apps using RAG & NLP<br><br>➪ **I'm looking to collaborate on**: AI & Machine Learning projects<br><br>➪ **I'm looking for help with**: Deploying scalable AI systems<br><br>➪ **I'm currently learning**: Advanced ML, Deep Learning & RAG<br><br>➪ **Ask me about**: Python, NLP & AI apps<br><br>➪ **Fun fact**: I love turning data into intelligent systems 
 
@@ -62,4 +70,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zakir Ali&icon=0&color=0)](https://visitcount.itsvg.in)
-
